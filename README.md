@@ -1,8 +1,9 @@
-![logoATS](https://github.com/Adalab/project-promo-T-module-2-team-4/assets/130361802/3176c77a-3f42-4572-96e2-86d97369dab3)
+
+![MAC SP 2023-10-25 a las 18 12 21](https://github.com/silviaparadag/digital-card-maker-team-project-adalab/assets/130361802/f3670011-b71a-4c8a-86a0-9f3f965d35d7)
 
 
 
-# PROJECT MODULE 2: ADALAB TECH SUMMIT CARD CREATION WEB SITE
+# ADALAB TECH SUMMIT CARD CREATION WEB SITE
 
 ### Summary
 In the second module of the course we have to make a web page to create digital cards for the Adalab Tech Summit, the first convention for the Adalabers community.
@@ -42,31 +43,81 @@ In addition, the information of the created card can be stored in the Local Stor
 At the same time you are filling the form, you can see how the card looks like in the preview section.
 
 
-## Team members: 👩🏻‍💻👩🏻‍💻👩🏼‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻
+## ⚒️ | Tools
 
-- **Giselle Castro** @Giselle-97
-- **Natalia Gañán** @nataliaventura93
-- **Kathi Mansilla** @kathimansilla
-- **Silvia Parada** @silviaparadag
-- **Suelen Ranucci** @SuelenGalhardo
-- **Irene Talavero** @IreneTaPa
-
-
-## Tools: ⚒️
-
-- `HTML, CSS, SASS, JS`
+- `HTML`
+- `CSS, Saas`
+- `JavaScript`
+- `Visual Studio Code`
 - `Zeplin`
-- `Vs Code`
-- `GitHub` `GitHub Pages`
-- `Adalab Web Starter Kit`
+- `GitHub`
+- `GitHub Pages`
+- `Agile-Scrum` with GitHub Projects for team organization & coordination *(sprints/dailies/board panel/backlog)*
 
+&nbsp;
+
+
+## 🎲 | Getting started
+
+1. To start the project, download or fork the repository.
+
+2. To install NPM packages & dependencies, run the following line in your terminal:
+
+~~~
+npm install
+~~~
+
+3. To be able to view the page in the browser, run:
+
+~~~
+npm start
+~~~
+
+> **Note** In this project, we can find the following files and folders:
+>
+>- The folder 📂 `src/` is the files of this web page: HTML, SCSS, JavaScript and images.
+>- The folders 📚 `docs/` is generated automatically when we start the project. GULP reads the files found in the src/ folder, processes them and then generates them inside `docs/`.
+>- Other 📝 files found in the repository root as 'gulpfile.js', 'package.json', etc. are configuration files and we don't need to modify them.
+>- To publish on GitHub Pages and generate your page for production and deploy run the command: `npm run push-docs`.
+
+&nbsp;
+
+
+## MODULE 2 | 👩🏻‍💻👩🏻‍💻👩🏼‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻 Team project
+
+&nbsp;
+🔸 **Giselle Castro** @Giselle-97
+
+&nbsp;
+🔸 **Natalia Gañán** @nataliaventura93
+
+&nbsp;
+🔸 **Kathi Mansilla** @kathimansilla
+
+&nbsp;
+🔸 **Silvia Parada** @silviaparadag
+
+&nbsp;
+🔸 **Suelen Ranucci** @SuelenGalhardo
+
+&nbsp;
+🔸 **Irene Talavero** @IreneTaPa
+
+&nbsp;
 
 This project has been supervised by:
 
-- **Dayana Romero** @dayanare
-- **Iván Garrido** @igarrido-adalab
-- **Yanelis Serrano** @ytaylordev
+&nbsp;
+🔹 **Dayana Romero** @dayanare
 
+&nbsp;
+🔹 **Iván Garrido** @igarrido-adalab
+
+&nbsp;
+🔹 **Yanelis Serrano** @ytaylordev
+
+
+&nbsp;
   
   
    ### 💫 _y con eso... ¡Ya estaría!_ 💫  
